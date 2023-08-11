@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  gap: 2em;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.filter__name {
+  display: flex;
+  gap: 2em;
+  justify-content: center;
+}

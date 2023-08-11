@@ -1,0 +1,12 @@
+.category__container {
+  width: 100px;
+}
+.category__ul {
+  cursor: pointer;
+}
+.category__li {
+  border: 1px solid black;
+}
+.category__li:hover {
+  background-color: bisque;
+}

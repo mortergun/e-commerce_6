@@ -1,0 +1,12 @@
+.form__div {
+  width: 100%;
+  max-width: 150px;
+}
+.form__btn {
+  width: 100%;
+  max-width: 150px;
+  height: 25px;
+}
+.form__btn:hover {
+  background-color: bisque;
+}
