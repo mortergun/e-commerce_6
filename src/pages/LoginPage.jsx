@@ -30,13 +30,13 @@ const LoginPage = () => {
             <input {...register('password', { required: true })} type="password" id="password" />
             <label htmlFor="password">Password</label>
           </div>
-          <a>
+          <button>
             <span></span>
             <span></span>
             <span></span>
             <span></span>
             Login
-          </a>
+          </button>
         </form>
       </div>
     </article>
